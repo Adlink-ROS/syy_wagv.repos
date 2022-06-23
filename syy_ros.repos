@@ -1,0 +1,41 @@
+repositories:
+  syy_wagv:
+    type: git
+    url: git@github.com:Adlink-ROS/syy_wagv.git
+    version: main
+  rosserial:
+    type: git
+    url: https://github.com/ros-drivers/rosserial.git
+    version: melodic-devel
+  sick_tim:
+    type: git
+    url: https://github.com/Adlink-ROS/sick_tim.git
+    version: melodic
+  usb_cam:
+    type: git
+    url: https://github.com/Adlink-ROS/usb_cam.git
+    version: develop
+  rbx1:
+    type: git
+    url: https://github.com/Adlink-ROS/rbx1.git
+    version: indigo-devel
+  ros_intel_movidius_ncs:
+    type: git
+    url: https://github.com/intel/ros_intel_movidius_ncs.git
+    version: master
+  object_msgs:
+    type: git
+    url: https://github.com/intel/object_msgs.git
+    version: master
+  realsense-ros:
+    type: git
+    url: https://github.com/IntelRealSense/realsense-ros.git
+    version: 2.2.0
+  #leddar:
+  #  type: git
+  #  url: https://github.com/Adlink-ROS/ros-leddar.git
+  #  version: master
+  km_bigturtle:
+    type: git
+    url: git@github.com:Adlink-ROS/km_bigturtle.git
+    version: main
